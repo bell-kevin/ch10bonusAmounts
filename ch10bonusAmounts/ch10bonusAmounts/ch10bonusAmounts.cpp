@@ -82,5 +82,3 @@ void displayArray(employee* emp, int size) {
 		cout << "Employee " << i + 1 << " bonus: " << emp[i].bonus << endl;
 	}
 } // end displayArray
-
-
